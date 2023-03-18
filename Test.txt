@@ -1,0 +1,6 @@
+int my-function(int x, int y)
+	return x * y + 10;
+void SayHello() => Console.Writeline("Hello!");
+Console.Writeline("Hmmm");
+x1 = 16;
+x2 = 7;
